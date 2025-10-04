@@ -24,7 +24,7 @@ As CPA students, when should we use AI and when should we avoid it in Code, Revi
 link:
 
 ### Current event (Why now, 2025)
-Owner (sources): <Name or @id> · Presenter: <Name or @id> (0:00–0:15)
+Owner (sources): MoondownSF · Presenter: Fei Shen (0:00–0:15)
 
 - [ ] Source #1 Title | Link | Date | 1-line takeaway
 - [ ] Source #2 Title | Link | Date | 1-line takeaway
