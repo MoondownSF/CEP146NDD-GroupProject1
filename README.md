@@ -9,7 +9,7 @@
 **Team**(All members co-present)
 | Name | GitHub | Primary responsibility | Presentation segment / timecodes |
 |---|---|---|---|
-| <Name A> | @<idA> | Slides owner（Before → After） | **0:00–0:15** Intro & “Why now（2025）” |
+| **Amthal Rasha** | **@AmthalRasha02** | Slides owner（Before → After） | **0:00–0:15** Intro & “Why now（2025）” |
 | <Name B> | @<idB> | Script owner (talk track / voiceover script / speaker notes) | **0:15–0:45** Workflow & Angle |
 | <Name C> | @<idC> | Demo owner（30s: do-while C, tests + lint） | **0:45–1:15** Mini demo |
 | **Fei Shen** | **@MoondownSF** | Research & Sources；Repo/Collab lead；Metrics | **1:15–2:30** Metrics summary & **Final Question** |
