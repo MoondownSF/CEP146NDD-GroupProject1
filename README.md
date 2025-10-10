@@ -18,7 +18,7 @@
 We focus on AI’s impact on developer efficiency, specifically how AI assists the Code → Review → Test loop.
 
 ## Final Test Question
-As CPA students, when should we use AI and when should we avoid it in Code, Review, and Test so we gain speed without losing understanding?
+As CPA and CPP students, when should we use AI and when should we avoid it in Code, Review, and Test so we gain speed without losing understanding?
 
 ## YouTube Link
 link:
