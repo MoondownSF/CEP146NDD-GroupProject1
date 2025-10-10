@@ -11,7 +11,7 @@
 |---|---|---|---|
 | **Amthal Rasha** | **@AmthalRasha02** | Slides owner（Before → After） | **0:00–0:20** Intro & “Why now（2025）” |
 | Artyom Panyukov | @Apanyukov171 | Script owner (talk track / voiceover script / speaker notes) | **0:20–0:50** Workflow & Angle |
-| <Name C> | @<idC> | Demo owner（30s: do-while C, tests + lint） | **0:50–1:25** Mini demo |
+| Benny Tran | **@BennyTran04** | Demo owner（30s: do-while C, tests + lint） | **0:50–1:25** Mini demo |
 | **Fei Shen** | **@MoondownSF** | Research & Sources；Repo/Collab lead；Metrics | **1:25–2:30** Metrics summary & **Final Question** |
 
 ## Summary
