@@ -5,6 +5,5 @@
 
 **List for my folder**
 - Video 
-- PPT
 - Speaker notes
 - Question and answer
