@@ -7,4 +7,4 @@
 
 - It's same like choosing auto-login after entering a password and over time, forgetting the password. When AI isn’t available, those who are overly dependent on it may no longer be able to complete code independently.
 
-- Our question is: As CPA and CPP students, when should we use AI and when should we avoid it in Code, Review, and Test so we gain speed without losing understanding?
+- Our question is: As CPA or CPP students, when should we use AI and when should we avoid it?
